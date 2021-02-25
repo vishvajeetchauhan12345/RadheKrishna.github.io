@@ -625,8 +625,8 @@ background: rgb(90,80,120);
   background-color:white;
 }
 .page-5 header{
-	color: black;
-	font-size: 3.1vw;
+  color: black;
+  font-size: 3.1vw;
   justify-content: center;
   text-align: center;
 }
@@ -636,9 +636,9 @@ background: rgb(90,80,120);
  .page-5 .sub-page-5{
   display:flex;
   place-items:center;
-	background-size: cover;
-	justify-content: center;
-	align-content: center;
+  background-size: cover;
+  justify-content: center;
+  align-content: center;
   width:100vw;
   height: 41vw;
   /* border:2px solid black;*/
@@ -650,27 +650,27 @@ background: rgb(90,80,120);
   margin:auto;
   place-items:center;
 /*  border:2px solid white;*/
-	text-align:center;
-	list-style:none;
+  text-align:center;
+  list-style:none;
 }
 .page-5 .sub-page-5 ul li{
   width:14vw;
   height:3vw;
   display:grid;
   place-items:center;
-	margin:auto;
-	font-size:1.2vw;
-	font-family: courier;
+  margin:auto;
+  font-size:1.2vw;
+  font-family: courier;
 }
 .sub-page-5 ul li:hover{
-	background: #6a5acd;
+  background: #6a5acd;
 }
 .page-5 .sub-page-5 ul li a{
  text-decoration:none;
  color: white;
 }
 .sub-page-5 ul li a:hover{
-	border-bottom:0.3vw solid #ffa500;
+  border-bottom:0.3vw solid #ffa500;
 }
 
 /* END section added   2    */
